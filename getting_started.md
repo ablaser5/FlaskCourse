@@ -32,3 +32,8 @@ or installing a linux subsystem.
 	if __name__ == "__main__":
 	    app.run(debug=True)
 	```
+1. Running the App
+	```
+	python3 main.py
+	```
+	* This will run the application on your localhost (http://127.0.0.1:5000/)
