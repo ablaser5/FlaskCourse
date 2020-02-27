@@ -1,0 +1,4 @@
+FlaskCourse/
+	templates/
+	static/
+	main.py
