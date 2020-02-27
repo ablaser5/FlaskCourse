@@ -37,6 +37,5 @@ or installing a linux subsystem.
 	python3 main.py
 	```
 	* This will run the application on your localhost (http://127.0.0.1:5000/)
-
-![Image of Example]
-(https://github.com/ablaser5/FlaskCourse/blob/master/materials/running_the_app.png)
+	
+![alt text](https://github.com/ablaser5/FlaskCourse/blob/master/materials/running_the_app.png "Logo Title Text 1")
