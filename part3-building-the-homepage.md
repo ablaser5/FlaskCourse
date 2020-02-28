@@ -8,9 +8,9 @@ rest of the application.
 ```
 
 1. Add an "index.html" file to the templates directory
-1. Add an "style.css" file to the static directory
-1. Add an "index.js" file to the static directory
-1. Copy the code snippet in the "index.html" file:
+2. Add an "style.css" file to the static directory
+3. Add an "index.js" file to the static directory
+4. Copy the code snippet in the "index.html" file:
 ```html
 <!DOCTYPE html>
 <html>
@@ -24,7 +24,7 @@ rest of the application.
 </body>
 </html>
 ```
-1. Copy the code snippet in the "style.css" file:
+5. Copy the code snippet in the "style.css" file:
 ```css
 html {
    font-family: sans-serif;
