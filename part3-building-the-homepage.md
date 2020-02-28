@@ -15,19 +15,19 @@ rest of the application.
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Home | Online Store</title>
-	<link rel="stylesheet" type="text/css" href=" {{ url_for('static', filename='style.css') }} ">
-	<script type="text/javascript" src=" {{ url_for('static', filename='index.js') }} "></script>
+   <title>Home | Online Store</title>
+   <link rel="stylesheet" type="text/css" href=" {{ url_for('static', filename='style.css') }} ">
+   <script type="text/javascript" src=" {{ url_for('static', filename='index.js') }} "></script>
 </head>
 <body>
-	<h2>Your Website is Successfully Configured</h2>
+   <h2>Your Website is Successfully Configured</h2>
 </body>
 </html>
 ```
 1. Copy the code snippet in the "style.css" file:
 ```css
 html {
-	font-family: sans-serif;
-	text-align: center;
+   font-family: sans-serif;
+   text-align: center;
 }
 ```
